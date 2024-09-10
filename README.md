@@ -2,7 +2,7 @@
 
 
 
-Some examples of Terraform code that can be used to create some
+Some examples of Terraform code that can be used to create
 
 Amazon Web Services (AWS) Simple services
 
